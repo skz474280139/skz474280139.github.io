@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite-url/undefined/shili/</loc>
+    <loc>http://yoursite-url/cn/shili/</loc>
     
     <lastmod>2023-06-05</lastmod>
     
@@ -53,7 +53,7 @@
 
   
   <url>
-    <loc>http://yoursite-url/tags/xxx/</loc>
+    <loc>http://yoursite-url/tags/xxxx/</loc>
     <lastmod>2023-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -62,7 +62,7 @@
 
   
   <url>
-    <loc>http://yoursite-url/categories/xxx/</loc>
+    <loc>http://yoursite-url/categories/xxxxx/</loc>
     <lastmod>2023-06-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
