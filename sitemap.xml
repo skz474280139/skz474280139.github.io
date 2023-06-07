@@ -60,14 +60,14 @@
 
   
   <url>
-    <loc>http://yoursite-url/tags/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/</loc>
+    <loc>http://yoursite-url/tags/%E6%A0%87%E7%AD%BE/</loc>
     <lastmod>2023-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://yoursite-url/tags/%E6%A0%87%E7%AD%BE/</loc>
+    <loc>http://yoursite-url/tags/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/</loc>
     <lastmod>2023-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -76,14 +76,14 @@
 
   
   <url>
-    <loc>http://yoursite-url/categories/%E6%88%91%E4%BB%AC/</loc>
+    <loc>http://yoursite-url/categories/%E7%89%B9%E6%AE%8A%E6%A0%87%E7%AD%BE/</loc>
     <lastmod>2023-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://yoursite-url/categories/%E7%89%B9%E6%AE%8A%E6%A0%87%E7%AD%BE/</loc>
+    <loc>http://yoursite-url/categories/%E6%88%91%E4%BB%AC/</loc>
     <lastmod>2023-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
